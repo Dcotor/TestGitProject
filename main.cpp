@@ -6,4 +6,7 @@ int main() {
     int c = a - b;
     std::cout << "a - b = " << c << std::endl;
 
+    c = a + b;
+    std::cout << "a + b = " << c << std::endl;
+    return 0;
 }
