@@ -4,5 +4,6 @@ int main() {
     int c;
     a = 10; b = 20;
     int c = a - b;
+    std::cout << "a - b = " << c << std::endl;
 
 }
